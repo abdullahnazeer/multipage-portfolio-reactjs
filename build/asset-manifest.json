@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.905bf3ac.css",
+    "main.js": "/static/js/main.19e7770a.js",
+    "static/js/787.9eb6b898.chunk.js": "/static/js/787.9eb6b898.chunk.js",
+    "static/media/poster-card.png": "/static/media/poster-card.69ecef91ca9f4f0235e9.png",
+    "static/media/misc-card.png": "/static/media/misc-card.d42a5e638ccf620eb07f.png",
+    "static/media/web-card.png": "/static/media/web-card.428411d7428dfc35b0e0.png",
+    "static/media/logo-card.png": "/static/media/logo-card.ee6c5440ee30c1b25d79.png",
+    "static/media/gtv-logo.png": "/static/media/gtv-logo.8b77f575aee277d4cb6e.png",
+    "static/media/profilepicture.png": "/static/media/profilepicture.7e5ff2362ccaec221235.png",
+    "static/media/alkuppiya.png": "/static/media/alkuppiya.f2d33ef31fb841e83d69.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.905bf3ac.css.map": "/static/css/main.905bf3ac.css.map",
+    "main.19e7770a.js.map": "/static/js/main.19e7770a.js.map",
+    "787.9eb6b898.chunk.js.map": "/static/js/787.9eb6b898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905bf3ac.css",
+    "static/js/main.19e7770a.js"
+  ]
+}
